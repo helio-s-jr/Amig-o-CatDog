@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: roboto;
+}
+
+header{
+    display: flex;
+    width: 100%;
+    background-color: #474747;
+}
+
+.all-items-header{
+    background-color: aquamarine;
+    display: flex;
+    width: 97%;
+    margin: 0 auto;
+    align-items: center;
+    text-align: center;
+    Justify-content: space-between;
+}
+
+h1{
+    background-color: #CC2414;
+    display: flex;
+    width: 25%;
+    padding: 0.5%;
+    align-items: center;
+    text-align: center;
+    justify-content: left;
+    font-size: max-width(30px, 2vw);
+}
