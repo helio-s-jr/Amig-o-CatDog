@@ -31,3 +31,7 @@ h1{
     justify-content: left;
     font-size: max-width(30px, 2vw);
 }
+
+.container-nav{
+    background-color: burlywood;
+}
